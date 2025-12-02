@@ -22,7 +22,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "trabalho1.h"
+#include "LucasCastanheira20251160012.h"
 
 int q1(char data[])
 {
@@ -260,4 +260,5 @@ int q7(char matriz[8][10], char busca[])
     return 0;
 
 }
+
 
