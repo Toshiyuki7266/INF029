@@ -24,7 +24,6 @@
 #include <string.h>
 #include "trabalho1.h"
 
-
 int q1(char data[])
 {
     int i = 0, barra = 0;
@@ -261,3 +260,4 @@ int q7(char matriz[8][10], char busca[])
     return 0;
 
 }
+
